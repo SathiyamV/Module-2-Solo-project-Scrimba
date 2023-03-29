@@ -1,4 +1,4 @@
-# co52943079afe73253c2fc7c0
+# Scrimba Module-2 Solo Project
 
 Quick start:
 
